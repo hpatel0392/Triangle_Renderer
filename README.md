@@ -6,7 +6,7 @@ The application, reads in triangle data from an input ply file and then outputs 
 
 There are some test image files included in Source>Lab 5>Test Images.
 
-#Usage
+# Usage
 > <input.ply> <output.ppm> < rotate X> < rotate Y> < rotate Z >
  
 To change the command line arguements in Visual Studio go to Project>Properties>Debugging>Comannd Arguements
