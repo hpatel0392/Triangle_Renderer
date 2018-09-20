@@ -2,6 +2,7 @@
 * lab5.c
 * Author: Harsh Patel
 * Spring 2018
+* Reads triangle data from a ply file, renders the image and outputs to a ppm file
 */ 
  
 #define _USE_MATH_DEFINES

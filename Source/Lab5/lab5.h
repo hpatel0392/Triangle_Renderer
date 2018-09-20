@@ -1,9 +1,9 @@
-/* 
-* ;ab5.h
+/*
+* lab5.h
 * Author: Harsh Patel
 * Spring 2018
-*/ 
- 
+*/
+
 #ifndef LAB5_H
 #define LAB5_H
 
@@ -16,11 +16,11 @@
 
 // structure definitions
 
-// indicies to the 
+// indicies to the
 typedef struct{
 	int v0, v1, v2;
-} TRIANGLE_T;   
-   
+} TRIANGLE_T;
+
 typedef struct {
 	VP_T cam;
 	VP_T  up;
